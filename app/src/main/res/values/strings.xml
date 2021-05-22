@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ElitePasswordGenerator</string>
+    <string name="main_do">Generate secure password</string>
+    <string name="main_newpwd">Your new password will be shown here.</string>
+    <string name="main_doubletap">Double-click on password to copy</string>
+    <string name="main_length">Length</string>
+    <string name="_10">10</string>
+    <string name="main_incl_symbs">Include symbols</string>
+    <string name="main_incl_symbs_desc"><![CDATA[%@&*]]></string>
+    <string name="main_incl_numbs">Include numbers</string>
+    <string name="main_incl_numbs_desc">123456</string>
+    <string name="main_incl_lowerchars">Lowercase Characters</string>
+    <string name="main_incl_lowerchars_desc">abcdefg</string>
+    <string name="main_incl_upperchars">Uppercase Characters</string>
+    <string name="main_incl_upperchars_desc">ABCDEFG</string>
+    <string name="main_excl_simchars">Exclude Similar Characters</string>
+    <string name="main_excl_ambchars">Exclude Ambiguous Characters</string>
+    <string name="main_autocopy">Auto-Copy</string>
+    <string name="main_autocopy_desc">Copy password after generation</string>
+    <string name="err_was_copied">Your text was copied</string>
+    <string name="err_cant_copy">Error: Can\'t be copied</string>
+    <string name="err_nothing_selected">Please select at least one item.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="sign_in_page">Sign In Page</string>
+    <string name="sign_in">Sign In</string>
+</resources>
